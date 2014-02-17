@@ -1,0 +1,8 @@
+Especificaciones
+
+
+1-- Esta practica fue desarrollada en el servidor WAMP
+
+2-- La base de datos utilizada fue phpmyadmin
+
+3-- Esta desarrollada en html, css y php
